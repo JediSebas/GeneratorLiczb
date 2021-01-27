@@ -22,4 +22,10 @@
         android:name="com.jedisebas.generatorliczb.ui.slideshow.SlideshowFragment"
         android:label="@string/fibbonaciego"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_silnia"
+        android:name="com.jedisebas.generatorliczb.ui.silnia.SilniaFragment"
+        android:label="@string/silnia"
+        tools:layout="@layout/fragment_slideshow" />
 </navigation>

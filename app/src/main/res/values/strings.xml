@@ -13,4 +13,5 @@
     <string name="losowe">Losowe liczby</string>
     <string name="pierwsze">Liczby pierwsze</string>
     <string name="fibbonaciego">Liczby Fibonacciego</string>
+    <string name="silnia">Silnia</string>
 </resources>
